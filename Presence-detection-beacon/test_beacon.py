@@ -10,10 +10,10 @@
 #
 
 TAG_DATA = [  
-            ["Brendan","FF:04:19:C1:CF:2D",30,0,8,REPEAT_MODE],
-            ["Danielle","FF:3A:60:93:DE:A1",30,0,6,REPEAT_MODE],
-            ["Russell","C6:54:F4:99:E7:E7",30,0,9,REPEAT_MODE],
-            ["Tile4","CF:C3:75:38:F2:ED",30,0,7,REPEAT_MODE]
+            ["Brendan","FF:04:19:C1:CF:2D",30,0,8],
+            ["Danielle","FF:3A:60:93:DE:A1",30,0,6],
+            ["Russell","C6:54:F4:99:E7:E7",30,0,9],
+            ["Tile4","CF:C3:75:38:F2:ED",30,0,7]
            ]
 
            
